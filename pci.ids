@@ -1,8 +1,8 @@
 #
 #	List of PCI IDs
 #
-#	Version: 2026.09.12
-#	Date:    2026-09-12 03:15:02
+#	Version: 2026.09.13
+#	Date:    2026-09-13 03:15:02
 #
 #	Maintained by Albert Pool, Martin Mares, and other volunteers from
 #	the PCI ID Project at https://pci-ids.ucw.cz/.
@@ -27151,6 +27151,8 @@
 	0001  Hunter PCI Express
 1c8c  Mobiveil, Inc.
 1ca5  Corerise Electronics Co. Ltd.
+# Gskill Phoenix Blade
+	1241  Comay SBC208 SCSI Controller
 1cb0  Shannon Systems
 	8266  SP4 Series SSD
 		1cb0 2021  SP4 Series OCS U.2 SSD
